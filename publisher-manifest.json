@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0607ba1ece53eb3db85ea09c",
+  "owner": "ureab8q9j",
+  "repo": "page-cbb6d60848a99e0c7de6eb43",
+  "title": "clashmi苹果",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cbb6d60848a99e0c7de6eb43",
+      "a": "clashmi苹果",
+      "b": "",
+      "entity": "clashmi苹果",
+      "brand": "clashmi苹果",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3f7d65feb152dd6ada98553f5dd1d6825b256ac7e217f83b4fe5eb9f3381856a",
+      "content": {
+        "keyword1": "clashmi苹果",
+        "keyword2": "",
+        "primary_entity": "clashmi苹果",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi苹果为您提供苹果专属的机场订阅服务与VPN加速方案，优质节点池，流媒体解锁，客户端一键下载，助您畅享高速稳定网络连接。",
+          "AI_DESCRIPTION": "clashmi苹果为您提供苹果专属的机场订阅服务与VPN加速方案，优质节点池，流媒体解锁，客户端一键下载，助您畅享高速稳定网络连接。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n  background-color: #f8f5f0;\n  color: #333333;\n  line-height: 1.7;\n  margin: 0;\n  padding: 0;\n}\n.main {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 20px;\n}\nheader {\n  background: white;\n  padding: 20px 0;\n  box-shadow: 0 2px 10px rgba(224, 122, 95, 0.1);\n}\nh1 {\n  color: #e07a5f;\n  text-align: center;\n  font-size: 2.5rem;\n  margin: 0;\n}\nnav a {\n  color: #333;\n  text-decoration: none;\n  margin: 0 15px;\n}\nsection {\n  margin-bottom: 40px;\n  padding: 30px;\n  background: white;\n  border-radius: 12px;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n}\nh2 {\n  color: #e07a5f;\n  border-bottom: 2px solid #f0e6d9;\n  padding-bottom: 10px;\n}\n.card-container {\n  display: grid;\n  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n  gap: 20px;\n}\n.card {\n  background: white;\n  border: 1px solid #f0e6d9;\n  border-radius: 10px;\n  padding: 25px;\n  transition: transform 0.3s;\n}\n.card:hover {\n  transform: translateY(-5px);\n  box-shadow: 0 8px 25px rgba(224, 122, 95, 0.15);\n}\n.card h3 {\n  color: #333;\n  margin-top: 0;\n}\n.featured {\n  border-color: #e07a5f;\n  position: relative;\n}\n.card.featured::after {\n  content: \"推荐\";\n  position: absolute;\n  top: 15px;\n  right: 15px;\n  background: #e07a5f;\n  color: white;\n  font-size: 0.8rem;\n  padding: 3px 10px;\n  border-radius: 20px;\n}\ntable {\n  width: 100%;\n  border-collapse: collapse;\n  margin: 20px 0;\n}\nth, td {\n  padding: 15px;\n  text-align: left;\n  border-bottom: 1px solid #eee;\n}\nth {\n  background: #f8f5f0;\n  color: #e07a5f;\n}\n.featured th {\n  background: #fff0e6;\n}\ndetails {\n  margin: 15px 0;\n  background: #f8f5f0;\n  padding: 10px;\n  border-radius: 8px;\n}\nsummary {\n  font-weight: bold;\n  cursor: pointer;\n  color: #e07a5f;\n}\nfooter {\n  background: #e07a5f;\n  color: white;\n  text-align: center;\n  padding: 20px;\n}\nfooter a {\n  color: #fff;\n  text-decoration: none;\n  margin: 0 10px;\n}\n@media (max-width: 768px) {\n  .main {\n    padding: 10px;\n  }\n  h1 {\n    font-size: 2rem;\n  }\n  .card-container {\n    grid-template-columns: 1fr;\n  }\n}\n</style>\n\n\n<header class=\"main\">\n<h1>clashmi苹果</h1>\n<nav>\n<a href=\"#intro\">品牌简介</a>\n<a href=\"#scenarios\">使用场景</a>\n<a href=\"#operation\">操作说明</a>\n<a href=\"#plans\">套餐对比</a>\n<a href=\"#faq\">常见问题</a>\n</nav>\n</header>\n<main class=\"main\">\n<section id=\"intro\">\n<h2>品牌简介</h2>\n<p>clashmi苹果是专为苹果设备用户打造的优质机场订阅服务。我们采用先进的 Clash 协议技术，为您的 iPhone、iPad 和 Mac 提供稳定、高速的网络加速方案。通过专业优化的节点池，您可以轻松突破地区限制，畅享全球高清内容和稳定连接。</p>\n</section>\n<section id=\"scenarios\">\n<h2>使用场景</h2>\n<p>clashmi苹果适用于多种场景，包括：</p>\n<ul>\n<li>流媒体解锁：Netflix、YouTube、Disney+、iQIYI 等平台高清无广告观看</li>\n<li>科学上网：访问被屏蔽的网站和应用，获取最新信息</li>\n<li>游戏加速：IPLC 专线优化，提供低延迟的游戏体验</li>\n<li>远程办公与多设备同步：支持多人同时在线使用</li>\n<li>旅行出差：随时随地保持高效网络连接</li>\n</ul>\n</section>\n<section id=\"operation\">\n<h2>操作说明</h2>\n<ol>\n<li>登录官网，选择适合您的套餐并完成安全支付。</li>\n<li>订阅成功后，通过官网获取官方客户端下载链接。</li>\n<li>在您的苹果设备上下载并安装 Clash for Apple 或对应客户端。</li>\n<li>导入提供的配置信息，连接到所选的加速节点，即可享受高速网络服务。</li>\n</ol>\n</section>\n<section id=\"plans\">\n<h2>套餐对比</h2>\n<p>以下是 clashmi苹果 三大核心套餐的详细对比：</p>\n<div class=\"card-container\">\n<div class=\"card\">\n<h3>基础版</h3>\n<p>¥15/月 | 按年付仅需 ¥150/年</p>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n</div>\n<div class=\"card featured\">\n<h3>旗舰版</h3>\n<p>¥35/月 | 按年付仅需 ¥350/年</p>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7x24 优先工单支持</li>\n</ul>\n</div>\n<div class=\"card\">\n<h3>团队版</h3>\n<p>¥85/月 | 按年付仅需 ¥850/年</p>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n</div>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary>clashmi苹果 是什么？</summary>\n<p>clashmi苹果是专为苹果设备优化的机场服务，提供 Clash 协议代理，帮助用户实现网络加速和内容解锁。</p>\n</details>\n<details>\n<summary>如何获取客户端下载？</summary>\n<p>订阅成功后，登录您的账号即可获取官网客户端下载链接，支持 iOS 设备一键安装。</p>\n</details>\n<details>\n<summary>支持哪些流媒体平台解锁？</summary>\n<p>旗舰版及以上套餐支持 Netflix、YouTube、Disney+、HBO 等主流平台原生解锁，无需额外工具。</p>\n</details>\n<details>\n<summary>节点质量如何？</summary>\n<p>我们拥有全球优质节点池，覆盖亚洲、欧洲、美洲等多地，均经过严格筛选，确保高速稳定。</p>\n</details>\n<details>\n<summary>退款和售后服务如何？</summary>\n<p>7x24 优先支持，提供快速响应，满意度未达标可申请退款。</p>\n</details>\n<details>\n<summary>团队版适合哪些用户？</summary>\n<p>团队版专为企业或大型用户设计，提供专属高带宽节点和定制路由服务。</p>\n</details>\n</section>\n<section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n<footer>\n<p>© 2024 clashmi苹果 官网。所有权利保留。</p>\n<a href=\"#plans\">查看更多套餐</a>\n<a href=\"#faq\">常见问题</a>\n</footer>\n\n",
+          "hash": "85307b8185343f5607ee96fd8422c1a7780a40e1771c79431f0b42e9936582d2",
+          "seo": {
+            "title": "clashmi苹果 - 苹果设备专属机场订阅与VPN加速器客户端下载",
+            "keywords": "clashmi苹果,苹果机场,clash订阅,vpn加速器,机场客户端,梯子服务,苹果设备加速",
+            "description": "clashmi苹果为您提供苹果专属的机场订阅服务与VPN加速方案，优质节点池，流媒体解锁，客户端一键下载，助您畅享高速稳定网络连接。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "oslddwm.cn",
+    "host": "p-ddf6fd7140.oslddwm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "34253e1346cd40519fa44dccc18681f5017c4c9539a8c0296bb50771edc79365",
+    "sitemap.xml": "0a79f18468c5c259fc07d822c5bf5a6cd74813a6a18a05e350c0173d826c5c9b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b4488d4e8599ecd0e6b49cda4405fb76933b19cb635537a734cedc650b35ebe9",
+    "robots.txt": "e078ec479b222798c5e8826449bbd4c27d412c1b1ed1e021644cfda86c030ac3",
+    "20f32d6db64ce28fba1f3a330769a8b8.txt": "1b0c960ada3f1f2249220415b7aea4a1dbc766a376a6c3285c7d5b1554e0b701"
+  },
+  "revision": "e6aca8ea2877162c7cdbe3f3aa5f337d32cfb33c23d6afc58eef6c9ee8228cab"
+}
